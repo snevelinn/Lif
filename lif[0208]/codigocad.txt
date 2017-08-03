@@ -1,0 +1,79 @@
+#nome{
+    background-color: #e1e1e1;
+    width:45%;
+    height:40px;
+    margin-top: 10%;
+    margin-left: -48%;
+ 
+}
+
+#sobrenome{
+    background-color: #e1e1e1;
+    width:45%;
+    height:40px;
+    margin-top: -10%;
+    margin-left: 46%;
+ 
+}
+
+
+#email{
+    background-color: #e1e1e1;
+    width:92%;
+    height:40px;
+    margin-top: 2%;
+    margin-left: -1%;
+ 
+}
+
+#senha{
+    background-color: #e1e1e1;
+    width:92%;
+    height:40px;
+    margin-top: 2%;
+    margin-left: -1%;
+ 
+}
+
+#confirmeasenha{
+    background-color: #e1e1e1;
+    width:92%;
+    height:40px;
+    margin-top: 2%;
+    margin-left: -1%;
+ 
+}
+
+#dia{
+    background-color: #e1e1e1;
+    width:18%;
+    height:40px;
+    margin-top: 2%;
+    margin-left: -2%;
+ 
+}
+
+#mes{
+    background-color: #e1e1e1;
+    width:18%;
+    height:40px;
+    margin-top: 2%;
+    margin-left: -2%;
+}
+
+#ano{
+    background-color: #e1e1e1;
+    width:20%;
+    height:40px;
+    margin-top: 2%;
+    margin-left: -2%;
+}   
+    
+
+#genero{
+    background-color: #e1e1e1;
+    width:36%;
+    height:40px;
+    margin-top: 2%;
+    margin-left: -2%;
+}
